@@ -1,11 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+%7C+Docker+%7C+PM2;System+Engineering+Student" alt="Typing SVG" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Jesus Jimenez</h1>
 <h3 align="center">System Engineering Student & Backend Developer</h3>
 
 <br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+%7C+Docker+%7C+PM2;System+Engineering+Student" alt="Typing SVG" />
+</div>
 
 <p align="right"> <h3>Profile Views :-</h3> 
   <img src="https://komarev.com/ghpvc/?username=jesusjimenez&label=Profile%20views&color=0e75b6&style=flat"
