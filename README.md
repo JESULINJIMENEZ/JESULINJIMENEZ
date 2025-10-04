@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Jesus Jimenez</h1>
-<h3 align="center">System Engineering Student & Backend Developer</h3>
 
 <br>
 
